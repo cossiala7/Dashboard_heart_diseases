@@ -1,0 +1,304 @@
+age;sex;cp;trestbps;chol;fbs;restecg;thalach;exang;oldpeak;slope;ca;thal;target
+63;Homme;Angine stable;145;233;Oui;Hypertrophie;150;Non;2.3;En baisse;Absence d'anomalie;Thalassemie sous controle;Non
+67;Homme;asymptomatique;160;286;Non;Hypertrophie;108;Oui;1.5;Stable;Élevé;Non;Oui
+67;Homme;asymptomatique;120;229;Non;Hypertrophie;129;Oui;2.6;Stable;Moyen;Thalassemie instable;Oui
+37;Homme;douleur non anginale;130;250;Non;Normal;187;Non;3.5;En baisse;Absence d'anomalie;Non;Non
+41;Femme;Angine instable;130;204;Non;Hypertrophie;172;Non;1.4;En hausse;Absence d'anomalie;Non;Non
+56;Homme;Angine instable;120;236;Non;Normal;178;Non;0.8;En hausse;Absence d'anomalie;Non;Non
+62;Femme;asymptomatique;140;268;Non;Hypertrophie;160;Non;3.6;En baisse;Moyen;Non;Oui
+57;Femme;asymptomatique;120;354;Non;Normal;163;Oui;0.6;En hausse;Absence d'anomalie;Non;Non
+63;Homme;asymptomatique;130;254;Non;Hypertrophie;147;Non;1.4;Stable;Faible;Thalassemie instable;Oui
+53;Homme;asymptomatique;140;203;Oui;Hypertrophie;155;Oui;3.1;En baisse;Absence d'anomalie;Thalassemie instable;Oui
+57;Homme;asymptomatique;140;192;Non;Normal;148;Non;0.4;Stable;Absence d'anomalie;Thalassemie sous controle;Non
+56;Femme;Angine instable;140;294;Non;Hypertrophie;153;Non;1.3;Stable;Absence d'anomalie;Non;Non
+56;Homme;douleur non anginale;130;256;Oui;Hypertrophie;142;Oui;0.6;Stable;Faible;Thalassemie sous controle;Oui
+44;Homme;Angine instable;120;263;Non;Normal;173;Non;0.0;En hausse;Absence d'anomalie;Thalassemie instable;Non
+52;Homme;douleur non anginale;172;199;Oui;Normal;162;Non;0.5;En hausse;Absence d'anomalie;Thalassemie instable;Non
+57;Homme;douleur non anginale;150;168;Non;Normal;174;Non;1.6;En hausse;Absence d'anomalie;Non;Non
+48;Homme;Angine instable;110;229;Non;Normal;168;Non;1.0;En baisse;Absence d'anomalie;Thalassemie instable;Oui
+54;Homme;asymptomatique;140;239;Non;Normal;160;Non;1.2;En hausse;Absence d'anomalie;Non;Non
+48;Femme;douleur non anginale;130;275;Non;Normal;139;Non;0.2;En hausse;Absence d'anomalie;Non;Non
+49;Homme;Angine instable;130;266;Non;Normal;171;Non;0.6;En hausse;Absence d'anomalie;Non;Non
+64;Homme;Angine stable;110;211;Non;Hypertrophie;144;Oui;1.8;Stable;Absence d'anomalie;Non;Non
+58;Femme;Angine stable;150;283;Oui;Hypertrophie;162;Non;1.0;En hausse;Absence d'anomalie;Non;Non
+58;Homme;Angine instable;120;284;Non;Hypertrophie;160;Non;1.8;Stable;Absence d'anomalie;Non;Oui
+58;Homme;douleur non anginale;132;224;Non;Hypertrophie;173;Non;3.2;En hausse;Moyen;Thalassemie instable;Oui
+60;Homme;asymptomatique;130;206;Non;Hypertrophie;132;Oui;2.4;Stable;Moyen;Thalassemie instable;Oui
+50;Femme;douleur non anginale;120;219;Non;Normal;158;Non;1.6;Stable;Absence d'anomalie;Non;Non
+58;Femme;douleur non anginale;120;340;Non;Normal;172;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+66;Femme;Angine stable;150;226;Non;Normal;114;Non;2.6;En baisse;Absence d'anomalie;Non;Non
+43;Homme;asymptomatique;150;247;Non;Normal;171;Non;1.5;En hausse;Absence d'anomalie;Non;Non
+40;Homme;asymptomatique;110;167;Non;Hypertrophie;114;Oui;2.0;Stable;Absence d'anomalie;Thalassemie instable;Oui
+69;Femme;Angine stable;140;239;Non;Normal;151;Non;1.8;En hausse;Moyen;Non;Non
+60;Homme;asymptomatique;117;230;Oui;Normal;160;Oui;1.4;En hausse;Moyen;Thalassemie instable;Oui
+64;Homme;douleur non anginale;140;335;Non;Normal;158;Non;0.0;En hausse;Absence d'anomalie;Non;Oui
+59;Homme;asymptomatique;135;234;Non;Normal;161;Non;0.5;Stable;Absence d'anomalie;Thalassemie instable;Non
+44;Homme;douleur non anginale;130;233;Non;Normal;179;Oui;0.4;En hausse;Absence d'anomalie;Non;Non
+42;Homme;asymptomatique;140;226;Non;Normal;178;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+43;Homme;asymptomatique;120;177;Non;Hypertrophie;120;Oui;2.5;Stable;Absence d'anomalie;Thalassemie instable;Oui
+57;Homme;asymptomatique;150;276;Non;Hypertrophie;112;Oui;0.6;Stable;Faible;Thalassemie sous controle;Oui
+55;Homme;asymptomatique;132;353;Non;Normal;132;Oui;1.2;Stable;Faible;Thalassemie instable;Oui
+61;Homme;douleur non anginale;150;243;Oui;Normal;137;Oui;1.0;Stable;Absence d'anomalie;Non;Non
+65;Femme;asymptomatique;150;225;Non;Hypertrophie;114;Non;1.0;Stable;Élevé;Thalassemie instable;Oui
+40;Homme;Angine stable;140;199;Non;Normal;178;Oui;1.4;En hausse;Absence d'anomalie;Thalassemie instable;Non
+71;Femme;Angine instable;160;302;Non;Normal;162;Non;0.4;En hausse;Moyen;Non;Non
+59;Homme;douleur non anginale;150;212;Oui;Normal;157;Non;1.6;En hausse;Absence d'anomalie;Non;Non
+61;Femme;asymptomatique;130;330;Non;Hypertrophie;169;Non;0.0;En hausse;Absence d'anomalie;Non;Oui
+58;Homme;douleur non anginale;112;230;Non;Hypertrophie;165;Non;2.5;Stable;Faible;Thalassemie instable;Oui
+51;Homme;douleur non anginale;110;175;Non;Normal;123;Non;0.6;En hausse;Absence d'anomalie;Non;Non
+50;Homme;asymptomatique;150;243;Non;Hypertrophie;128;Non;2.6;Stable;Absence d'anomalie;Thalassemie instable;Oui
+65;Femme;douleur non anginale;140;417;Oui;Hypertrophie;157;Non;0.8;En hausse;Faible;Non;Non
+53;Homme;douleur non anginale;130;197;Oui;Hypertrophie;152;Non;1.2;En baisse;Absence d'anomalie;Non;Non
+41;Femme;Angine instable;105;198;Non;Normal;168;Non;0.0;En hausse;Faible;Non;Non
+65;Homme;asymptomatique;120;177;Non;Normal;140;Non;0.4;En hausse;Absence d'anomalie;Thalassemie instable;Non
+44;Homme;asymptomatique;112;290;Non;Hypertrophie;153;Non;0.0;En hausse;Faible;Non;Oui
+44;Homme;Angine instable;130;219;Non;Hypertrophie;188;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+60;Homme;asymptomatique;130;253;Non;Normal;144;Oui;1.4;En hausse;Faible;Thalassemie instable;Oui
+54;Homme;asymptomatique;124;266;Non;Hypertrophie;109;Oui;2.2;Stable;Faible;Thalassemie instable;Oui
+50;Homme;douleur non anginale;140;233;Non;Normal;163;Non;0.6;Stable;Faible;Thalassemie instable;Oui
+41;Homme;asymptomatique;110;172;Non;Hypertrophie;158;Non;0.0;En hausse;Absence d'anomalie;Thalassemie instable;Oui
+54;Homme;douleur non anginale;125;273;Non;Hypertrophie;152;Non;0.5;En baisse;Faible;Non;Non
+51;Homme;Angine stable;125;213;Non;Hypertrophie;125;Oui;1.4;En hausse;Faible;Non;Non
+51;Femme;asymptomatique;130;305;Non;Normal;142;Oui;1.2;Stable;Absence d'anomalie;Thalassemie instable;Oui
+46;Femme;douleur non anginale;142;177;Non;Hypertrophie;160;Oui;1.4;En baisse;Absence d'anomalie;Non;Non
+58;Homme;asymptomatique;128;216;Non;Hypertrophie;131;Oui;2.2;Stable;Élevé;Thalassemie instable;Oui
+54;Femme;douleur non anginale;135;304;Oui;Normal;170;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+54;Homme;asymptomatique;120;188;Non;Normal;113;Non;1.4;Stable;Faible;Thalassemie instable;Oui
+60;Homme;asymptomatique;145;282;Non;Hypertrophie;142;Oui;2.8;Stable;Moyen;Thalassemie instable;Oui
+60;Homme;douleur non anginale;140;185;Non;Hypertrophie;155;Non;3.0;Stable;Absence d'anomalie;Non;Oui
+54;Homme;douleur non anginale;150;232;Non;Hypertrophie;165;Non;1.6;En hausse;Absence d'anomalie;Thalassemie instable;Non
+59;Homme;asymptomatique;170;326;Non;Hypertrophie;140;Oui;3.4;En baisse;Absence d'anomalie;Thalassemie instable;Oui
+46;Homme;douleur non anginale;150;231;Non;Normal;147;Non;3.6;Stable;Absence d'anomalie;Non;Oui
+65;Femme;douleur non anginale;155;269;Non;Normal;148;Non;0.8;En hausse;Absence d'anomalie;Non;Non
+67;Homme;asymptomatique;125;254;Oui;Normal;163;Non;0.2;Stable;Moyen;Thalassemie instable;Oui
+62;Homme;asymptomatique;120;267;Non;Normal;99;Oui;1.8;Stable;Moyen;Thalassemie instable;Oui
+65;Homme;asymptomatique;110;248;Non;Hypertrophie;158;Non;0.6;En hausse;Moyen;Thalassemie sous controle;Oui
+44;Homme;asymptomatique;110;197;Non;Hypertrophie;177;Non;0.0;En hausse;Faible;Non;Oui
+65;Femme;douleur non anginale;160;360;Non;Hypertrophie;151;Non;0.8;En hausse;Absence d'anomalie;Non;Non
+60;Homme;asymptomatique;125;258;Non;Hypertrophie;141;Oui;2.8;Stable;Faible;Thalassemie instable;Oui
+51;Femme;douleur non anginale;140;308;Non;Hypertrophie;142;Non;1.5;En hausse;Faible;Non;Non
+48;Homme;Angine instable;130;245;Non;Hypertrophie;180;Non;0.2;Stable;Absence d'anomalie;Non;Non
+58;Homme;asymptomatique;150;270;Non;Hypertrophie;111;Oui;0.8;En hausse;Absence d'anomalie;Thalassemie instable;Oui
+45;Homme;asymptomatique;104;208;Non;Hypertrophie;148;Oui;3.0;Stable;Absence d'anomalie;Non;Non
+53;Femme;asymptomatique;130;264;Non;Hypertrophie;143;Non;0.4;Stable;Absence d'anomalie;Non;Non
+39;Homme;douleur non anginale;140;321;Non;Hypertrophie;182;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+68;Homme;douleur non anginale;180;274;Oui;Hypertrophie;150;Oui;1.6;Stable;Absence d'anomalie;Thalassemie instable;Oui
+52;Homme;Angine instable;120;325;Non;Normal;172;Non;0.2;En hausse;Absence d'anomalie;Non;Non
+44;Homme;douleur non anginale;140;235;Non;Hypertrophie;180;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+47;Homme;douleur non anginale;138;257;Non;Hypertrophie;156;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+53;Femme;douleur non anginale;128;216;Non;Hypertrophie;115;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+53;Femme;asymptomatique;138;234;Non;Hypertrophie;160;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+51;Femme;douleur non anginale;130;256;Non;Hypertrophie;149;Non;0.5;En hausse;Absence d'anomalie;Non;Non
+66;Homme;asymptomatique;120;302;Non;Hypertrophie;151;Non;0.4;Stable;Absence d'anomalie;Non;Non
+62;Femme;asymptomatique;160;164;Non;Hypertrophie;145;Non;6.2;En baisse;Élevé;Thalassemie instable;Oui
+62;Homme;douleur non anginale;130;231;Non;Normal;146;Non;1.8;Stable;Élevé;Thalassemie instable;Non
+44;Femme;douleur non anginale;108;141;Non;Normal;175;Non;0.6;Stable;Absence d'anomalie;Non;Non
+63;Femme;douleur non anginale;135;252;Non;Hypertrophie;172;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+52;Homme;asymptomatique;128;255;Non;Normal;161;Oui;0.0;En hausse;Faible;Thalassemie instable;Oui
+59;Homme;asymptomatique;110;239;Non;Hypertrophie;142;Oui;1.2;Stable;Faible;Thalassemie instable;Oui
+60;Femme;asymptomatique;150;258;Non;Hypertrophie;157;Non;2.6;Stable;Moyen;Thalassemie instable;Oui
+52;Homme;Angine instable;134;201;Non;Normal;158;Non;0.8;En hausse;Faible;Non;Non
+48;Homme;asymptomatique;122;222;Non;Hypertrophie;186;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+45;Homme;asymptomatique;115;260;Non;Hypertrophie;185;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+34;Homme;Angine stable;118;182;Non;Hypertrophie;174;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+57;Femme;asymptomatique;128;303;Non;Hypertrophie;159;Non;0.0;En hausse;Faible;Non;Non
+71;Femme;douleur non anginale;110;265;Oui;Hypertrophie;130;Non;0.0;En hausse;Faible;Non;Non
+49;Homme;douleur non anginale;120;188;Non;Normal;139;Non;2.0;Stable;Élevé;Thalassemie instable;Oui
+54;Homme;Angine instable;108;309;Non;Normal;156;Non;0.0;En hausse;Absence d'anomalie;Thalassemie instable;Non
+59;Homme;asymptomatique;140;177;Non;Normal;162;Oui;0.0;En hausse;Faible;Thalassemie instable;Oui
+57;Homme;douleur non anginale;128;229;Non;Hypertrophie;150;Non;0.4;Stable;Faible;Thalassemie instable;Oui
+61;Homme;asymptomatique;120;260;Non;Normal;140;Oui;3.6;Stable;Faible;Thalassemie instable;Oui
+39;Homme;asymptomatique;118;219;Non;Normal;140;Non;1.2;Stable;Absence d'anomalie;Thalassemie instable;Oui
+61;Femme;asymptomatique;145;307;Non;Hypertrophie;146;Oui;1.0;Stable;Absence d'anomalie;Thalassemie instable;Oui
+56;Homme;asymptomatique;125;249;Oui;Hypertrophie;144;Oui;1.2;Stable;Faible;Non;Oui
+52;Homme;Angine stable;118;186;Non;Hypertrophie;190;Non;0.0;Stable;Absence d'anomalie;Thalassemie sous controle;Non
+43;Femme;asymptomatique;132;341;Oui;Hypertrophie;136;Oui;3.0;Stable;Absence d'anomalie;Thalassemie instable;Oui
+62;Femme;douleur non anginale;130;263;Non;Normal;97;Non;1.2;Stable;Faible;Thalassemie instable;Oui
+41;Homme;Angine instable;135;203;Non;Normal;132;Non;0.0;Stable;Absence d'anomalie;Thalassemie sous controle;Non
+58;Homme;douleur non anginale;140;211;Oui;Hypertrophie;165;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+35;Femme;asymptomatique;138;183;Non;Normal;182;Non;1.4;En hausse;Absence d'anomalie;Non;Non
+63;Homme;asymptomatique;130;330;Oui;Hypertrophie;132;Oui;1.8;En hausse;Élevé;Thalassemie instable;Oui
+65;Homme;asymptomatique;135;254;Non;Hypertrophie;127;Non;2.8;Stable;Faible;Thalassemie instable;Oui
+48;Homme;asymptomatique;130;256;Oui;Hypertrophie;150;Oui;0.0;En hausse;Moyen;Thalassemie instable;Oui
+63;Femme;asymptomatique;150;407;Non;Hypertrophie;154;Non;4.0;Stable;Élevé;Thalassemie instable;Oui
+51;Homme;douleur non anginale;100;222;Non;Normal;143;Oui;1.2;Stable;Absence d'anomalie;Non;Non
+55;Homme;asymptomatique;140;217;Non;Normal;111;Oui;5.6;En baisse;Absence d'anomalie;Thalassemie instable;Oui
+65;Homme;Angine stable;138;282;Oui;Hypertrophie;174;Non;1.4;Stable;Faible;Non;Oui
+45;Femme;Angine instable;130;234;Non;Hypertrophie;175;Non;0.6;Stable;Absence d'anomalie;Non;Non
+56;Femme;asymptomatique;200;288;Oui;Hypertrophie;133;Oui;4.0;En baisse;Moyen;Thalassemie instable;Oui
+54;Homme;asymptomatique;110;239;Non;Normal;126;Oui;2.8;Stable;Faible;Thalassemie instable;Oui
+44;Homme;Angine instable;120;220;Non;Normal;170;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+62;Femme;asymptomatique;124;209;Non;Normal;163;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+54;Homme;douleur non anginale;120;258;Non;Hypertrophie;147;Non;0.4;Stable;Absence d'anomalie;Thalassemie instable;Non
+51;Homme;douleur non anginale;94;227;Non;Normal;154;Oui;0.0;En hausse;Faible;Thalassemie instable;Non
+29;Homme;Angine instable;130;204;Non;Hypertrophie;202;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+51;Homme;asymptomatique;140;261;Non;Hypertrophie;186;Oui;0.0;En hausse;Absence d'anomalie;Non;Non
+43;Femme;douleur non anginale;122;213;Non;Normal;165;Non;0.2;Stable;Absence d'anomalie;Non;Non
+55;Femme;Angine instable;135;250;Non;Hypertrophie;161;Non;1.4;Stable;Absence d'anomalie;Non;Non
+70;Homme;asymptomatique;145;174;Non;Normal;125;Oui;2.6;En baisse;Absence d'anomalie;Thalassemie instable;Oui
+62;Homme;Angine instable;120;281;Non;Hypertrophie;103;Non;1.4;Stable;Faible;Thalassemie instable;Oui
+35;Homme;asymptomatique;120;198;Non;Normal;130;Oui;1.6;Stable;Absence d'anomalie;Thalassemie instable;Oui
+51;Homme;douleur non anginale;125;245;Oui;Hypertrophie;166;Non;2.4;Stable;Absence d'anomalie;Non;Non
+59;Homme;Angine instable;140;221;Non;Normal;164;Oui;0.0;En hausse;Absence d'anomalie;Non;Non
+59;Homme;Angine stable;170;288;Non;Hypertrophie;159;Non;0.2;Stable;Absence d'anomalie;Thalassemie instable;Oui
+52;Homme;Angine instable;128;205;Oui;Normal;184;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+64;Homme;douleur non anginale;125;309;Non;Normal;131;Oui;1.8;Stable;Absence d'anomalie;Thalassemie instable;Oui
+58;Homme;douleur non anginale;105;240;Non;Hypertrophie;154;Oui;0.6;Stable;Absence d'anomalie;Thalassemie instable;Non
+47;Homme;douleur non anginale;108;243;Non;Normal;152;Non;0.0;En hausse;Absence d'anomalie;Non;Oui
+57;Homme;asymptomatique;165;289;Oui;Hypertrophie;124;Non;1.0;Stable;Élevé;Thalassemie instable;Oui
+41;Homme;douleur non anginale;112;250;Non;Normal;179;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+45;Homme;Angine instable;128;308;Non;Hypertrophie;170;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+60;Femme;douleur non anginale;102;318;Non;Normal;160;Non;0.0;En hausse;Faible;Non;Non
+52;Homme;Angine stable;152;298;Oui;Normal;178;Non;1.2;Stable;Absence d'anomalie;Thalassemie instable;Non
+42;Femme;asymptomatique;102;265;Non;Hypertrophie;122;Non;0.6;Stable;Absence d'anomalie;Non;Non
+67;Femme;douleur non anginale;115;564;Non;Hypertrophie;160;Non;1.6;Stable;Absence d'anomalie;Thalassemie instable;Non
+55;Homme;asymptomatique;160;289;Non;Hypertrophie;145;Oui;0.8;Stable;Faible;Thalassemie instable;Oui
+64;Homme;asymptomatique;120;246;Non;Hypertrophie;96;Oui;2.2;En baisse;Faible;Non;Oui
+70;Homme;asymptomatique;130;322;Non;Hypertrophie;109;Non;2.4;Stable;Élevé;Non;Oui
+51;Homme;asymptomatique;140;299;Non;Normal;173;Oui;1.6;En hausse;Absence d'anomalie;Thalassemie instable;Oui
+58;Homme;asymptomatique;125;300;Non;Hypertrophie;171;Non;0.0;En hausse;Moyen;Thalassemie instable;Oui
+60;Homme;asymptomatique;140;293;Non;Hypertrophie;170;Non;1.2;Stable;Moyen;Thalassemie instable;Oui
+68;Homme;douleur non anginale;118;277;Non;Normal;151;Non;1.0;En hausse;Faible;Thalassemie instable;Non
+46;Homme;Angine instable;101;197;Oui;Normal;156;Non;0.0;En hausse;Absence d'anomalie;Thalassemie instable;Non
+77;Homme;asymptomatique;125;304;Non;Hypertrophie;162;Oui;0.0;En hausse;Élevé;Non;Oui
+54;Femme;douleur non anginale;110;214;Non;Normal;158;Non;1.6;Stable;Absence d'anomalie;Non;Non
+58;Femme;asymptomatique;100;248;Non;Hypertrophie;122;Non;1.0;Stable;Absence d'anomalie;Non;Non
+48;Homme;douleur non anginale;124;255;Oui;Normal;175;Non;0.0;En hausse;Moyen;Non;Non
+57;Homme;asymptomatique;132;207;Non;Normal;168;Oui;0.0;En hausse;Absence d'anomalie;Thalassemie instable;Non
+52;Homme;douleur non anginale;138;223;Non;Normal;169;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+54;Femme;Angine instable;132;288;Oui;Hypertrophie;159;Oui;0.0;En hausse;Faible;Non;Non
+35;Homme;asymptomatique;126;282;Non;Hypertrophie;156;Oui;0.0;En hausse;Absence d'anomalie;Thalassemie instable;Oui
+45;Femme;Angine instable;112;160;Non;Normal;138;Non;0.0;Stable;Absence d'anomalie;Non;Non
+70;Homme;douleur non anginale;160;269;Non;Normal;112;Oui;2.9;Stable;Faible;Thalassemie instable;Oui
+53;Homme;asymptomatique;142;226;Non;Hypertrophie;111;Oui;0.0;En hausse;Absence d'anomalie;Thalassemie instable;Non
+59;Femme;asymptomatique;174;249;Non;Normal;143;Oui;0.0;Stable;Absence d'anomalie;Non;Oui
+62;Femme;asymptomatique;140;394;Non;Hypertrophie;157;Non;1.2;Stable;Absence d'anomalie;Non;Non
+64;Homme;asymptomatique;145;212;Non;Hypertrophie;132;Non;2.0;Stable;Moyen;Thalassemie sous controle;Oui
+57;Homme;asymptomatique;152;274;Non;Normal;88;Oui;1.2;Stable;Faible;Thalassemie instable;Oui
+52;Homme;asymptomatique;108;233;Oui;Normal;147;Non;0.1;En hausse;Élevé;Thalassemie instable;Non
+56;Homme;asymptomatique;132;184;Non;Hypertrophie;105;Oui;2.1;Stable;Faible;Thalassemie sous controle;Oui
+43;Homme;douleur non anginale;130;315;Non;Normal;162;Non;1.9;En hausse;Faible;Non;Non
+53;Homme;douleur non anginale;130;246;Oui;Hypertrophie;173;Non;0.0;En hausse;Élevé;Non;Non
+48;Homme;asymptomatique;124;274;Non;Hypertrophie;166;Non;0.5;Stable;Absence d'anomalie;Thalassemie instable;Oui
+56;Femme;asymptomatique;134;409;Non;Hypertrophie;150;Oui;1.9;Stable;Moyen;Thalassemie instable;Oui
+42;Homme;Angine stable;148;244;Non;Hypertrophie;178;Non;0.8;En hausse;Moyen;Non;Non
+59;Homme;Angine stable;178;270;Non;Hypertrophie;145;Non;4.2;En baisse;Absence d'anomalie;Thalassemie instable;Non
+60;Femme;asymptomatique;158;305;Non;Hypertrophie;161;Non;0.0;En hausse;Absence d'anomalie;Non;Oui
+63;Femme;Angine instable;140;195;Non;Normal;179;Non;0.0;En hausse;Moyen;Non;Non
+42;Homme;douleur non anginale;120;240;Oui;Normal;194;Non;0.8;En baisse;Absence d'anomalie;Thalassemie instable;Non
+66;Homme;Angine instable;160;246;Non;Normal;120;Oui;0.0;Stable;Élevé;Thalassemie sous controle;Oui
+54;Homme;Angine instable;192;283;Non;Hypertrophie;195;Non;0.0;En hausse;Faible;Thalassemie instable;Oui
+69;Homme;douleur non anginale;140;254;Non;Hypertrophie;146;Non;2.0;Stable;Élevé;Thalassemie instable;Oui
+50;Homme;douleur non anginale;129;196;Non;Normal;163;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+51;Homme;asymptomatique;140;298;Non;Normal;122;Oui;4.2;Stable;Élevé;Thalassemie instable;Oui
+43;Homme;asymptomatique;132;247;Oui;Hypertrophie;143;Oui;0.1;Stable;Absence d'anomalie;Thalassemie instable;Oui
+62;Femme;asymptomatique;138;294;Oui;Normal;106;Non;1.9;Stable;Élevé;Non;Oui
+68;Femme;douleur non anginale;120;211;Non;Hypertrophie;115;Non;1.5;Stable;Absence d'anomalie;Non;Non
+67;Homme;asymptomatique;100;299;Non;Hypertrophie;125;Oui;0.9;Stable;Moyen;Non;Oui
+69;Homme;Angine stable;160;234;Oui;Hypertrophie;131;Non;0.1;Stable;Faible;Non;Non
+45;Femme;asymptomatique;138;236;Non;Hypertrophie;152;Oui;0.2;Stable;Absence d'anomalie;Non;Non
+50;Femme;Angine instable;120;244;Non;Normal;162;Non;1.1;En hausse;Absence d'anomalie;Non;Non
+59;Homme;Angine stable;160;273;Non;Hypertrophie;125;Non;0.0;En hausse;Absence d'anomalie;Non;Oui
+50;Femme;asymptomatique;110;254;Non;Hypertrophie;159;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+64;Femme;asymptomatique;180;325;Non;Normal;154;Oui;0.0;En hausse;Absence d'anomalie;Non;Non
+57;Homme;douleur non anginale;150;126;Oui;Normal;173;Non;0.2;En hausse;Faible;Thalassemie instable;Non
+64;Femme;douleur non anginale;140;313;Non;Normal;133;Non;0.2;En hausse;Absence d'anomalie;Thalassemie instable;Non
+43;Homme;asymptomatique;110;211;Non;Normal;161;Non;0.0;En hausse;Absence d'anomalie;Thalassemie instable;Non
+45;Homme;asymptomatique;142;309;Non;Hypertrophie;147;Oui;0.0;Stable;Élevé;Thalassemie instable;Oui
+58;Homme;asymptomatique;128;259;Non;Hypertrophie;130;Oui;3.0;Stable;Moyen;Thalassemie instable;Oui
+50;Homme;asymptomatique;144;200;Non;Hypertrophie;126;Oui;0.9;Stable;Absence d'anomalie;Thalassemie instable;Oui
+55;Homme;Angine instable;130;262;Non;Normal;155;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+62;Femme;asymptomatique;150;244;Non;Normal;154;Oui;1.4;Stable;Absence d'anomalie;Non;Oui
+37;Femme;douleur non anginale;120;215;Non;Normal;170;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+38;Homme;Angine stable;120;231;Non;Normal;182;Oui;3.8;Stable;Absence d'anomalie;Thalassemie instable;Oui
+41;Homme;douleur non anginale;130;214;Non;Hypertrophie;168;Non;2.0;Stable;Absence d'anomalie;Non;Non
+66;Femme;asymptomatique;178;228;Oui;Normal;165;Oui;1.0;Stable;Moyen;Thalassemie instable;Oui
+52;Homme;asymptomatique;112;230;Non;Normal;160;Non;0.0;En hausse;Faible;Non;Oui
+56;Homme;Angine stable;120;193;Non;Hypertrophie;162;Non;1.9;Stable;Absence d'anomalie;Thalassemie instable;Non
+46;Femme;Angine instable;105;204;Non;Normal;172;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+46;Femme;asymptomatique;138;243;Non;Hypertrophie;152;Oui;0.0;Stable;Absence d'anomalie;Non;Non
+64;Femme;asymptomatique;130;303;Non;Normal;122;Non;2.0;Stable;Moyen;Non;Non
+59;Homme;asymptomatique;138;271;Non;Hypertrophie;182;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+41;Femme;douleur non anginale;112;268;Non;Hypertrophie;172;Oui;0.0;En hausse;Absence d'anomalie;Non;Non
+54;Femme;douleur non anginale;108;267;Non;Hypertrophie;167;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+39;Femme;douleur non anginale;94;199;Non;Normal;179;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+53;Homme;asymptomatique;123;282;Non;Normal;95;Oui;2.0;Stable;Moyen;Thalassemie instable;Oui
+63;Femme;asymptomatique;108;269;Non;Normal;169;Oui;1.8;Stable;Moyen;Non;Oui
+34;Femme;Angine instable;118;210;Non;Normal;192;Non;0.7;En hausse;Absence d'anomalie;Non;Non
+47;Homme;asymptomatique;112;204;Non;Normal;143;Non;0.1;En hausse;Absence d'anomalie;Non;Non
+67;Femme;douleur non anginale;152;277;Non;Normal;172;Non;0.0;En hausse;Faible;Non;Non
+54;Homme;asymptomatique;110;206;Non;Hypertrophie;108;Oui;0.0;Stable;Faible;Non;Oui
+66;Homme;asymptomatique;112;212;Non;Hypertrophie;132;Oui;0.1;En hausse;Faible;Non;Oui
+52;Femme;douleur non anginale;136;196;Non;Hypertrophie;169;Non;0.1;Stable;Absence d'anomalie;Non;Non
+55;Femme;asymptomatique;180;327;Non;Anomalies;117;Oui;3.4;Stable;Absence d'anomalie;Non;Oui
+49;Homme;douleur non anginale;118;149;Non;Hypertrophie;126;Non;0.8;En hausse;Élevé;Non;Oui
+74;Femme;Angine instable;120;269;Non;Hypertrophie;121;Oui;0.2;En hausse;Faible;Non;Non
+54;Femme;douleur non anginale;160;201;Non;Normal;163;Non;0.0;En hausse;Faible;Non;Non
+54;Homme;asymptomatique;122;286;Non;Hypertrophie;116;Oui;3.2;Stable;Moyen;Non;Oui
+56;Homme;asymptomatique;130;283;Oui;Hypertrophie;103;Oui;1.6;En baisse;Absence d'anomalie;Thalassemie instable;Oui
+46;Homme;asymptomatique;120;249;Non;Hypertrophie;144;Non;0.8;En hausse;Absence d'anomalie;Thalassemie instable;Oui
+49;Femme;Angine instable;134;271;Non;Normal;162;Non;0.0;Stable;Absence d'anomalie;Non;Non
+42;Homme;Angine instable;120;295;Non;Normal;162;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+41;Homme;Angine instable;110;235;Non;Normal;153;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+41;Femme;Angine instable;126;306;Non;Normal;163;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+49;Femme;asymptomatique;130;269;Non;Normal;163;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+61;Homme;Angine stable;134;234;Non;Normal;145;Non;2.6;Stable;Moyen;Non;Oui
+60;Femme;douleur non anginale;120;178;Oui;Normal;96;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+67;Homme;asymptomatique;120;237;Non;Normal;71;Non;1.0;Stable;Absence d'anomalie;Non;Oui
+58;Homme;asymptomatique;100;234;Non;Normal;156;Non;0.1;En hausse;Faible;Thalassemie instable;Oui
+47;Homme;asymptomatique;110;275;Non;Hypertrophie;118;Oui;1.0;Stable;Faible;Non;Oui
+52;Homme;asymptomatique;125;212;Non;Normal;168;Non;1.0;En hausse;Moyen;Thalassemie instable;Oui
+62;Homme;Angine instable;128;208;Oui;Hypertrophie;140;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+57;Homme;asymptomatique;110;201;Non;Normal;126;Oui;1.5;Stable;Absence d'anomalie;Thalassemie sous controle;Non
+58;Homme;asymptomatique;146;218;Non;Normal;105;Non;2.0;Stable;Faible;Thalassemie instable;Oui
+64;Homme;asymptomatique;128;263;Non;Normal;105;Oui;0.2;Stable;Faible;Thalassemie instable;Non
+51;Femme;douleur non anginale;120;295;Non;Hypertrophie;157;Non;0.6;En hausse;Absence d'anomalie;Non;Non
+43;Homme;asymptomatique;115;303;Non;Normal;181;Non;1.2;Stable;Absence d'anomalie;Non;Non
+42;Femme;douleur non anginale;120;209;Non;Normal;173;Non;0.0;Stable;Absence d'anomalie;Non;Non
+67;Femme;asymptomatique;106;223;Non;Normal;142;Non;0.3;En hausse;Moyen;Non;Non
+76;Femme;douleur non anginale;140;197;Non;Anomalies;116;Non;1.1;Stable;Absence d'anomalie;Non;Non
+70;Homme;Angine instable;156;245;Non;Hypertrophie;143;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+57;Homme;Angine instable;124;261;Non;Normal;141;Non;0.3;En hausse;Absence d'anomalie;Thalassemie instable;Oui
+44;Femme;douleur non anginale;118;242;Non;Normal;149;Non;0.3;Stable;Faible;Non;Non
+58;Femme;Angine instable;136;319;Oui;Hypertrophie;152;Non;0.0;En hausse;Moyen;Non;Oui
+60;Femme;Angine stable;150;240;Non;Normal;171;Non;0.9;En hausse;Absence d'anomalie;Non;Non
+44;Homme;douleur non anginale;120;226;Non;Normal;169;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+61;Homme;asymptomatique;138;166;Non;Hypertrophie;125;Oui;3.6;Stable;Faible;Non;Oui
+42;Homme;asymptomatique;136;315;Non;Normal;125;Oui;1.8;Stable;Absence d'anomalie;Thalassemie sous controle;Oui
+52;Homme;asymptomatique;128;204;Oui;Normal;156;Oui;1.0;Stable;Absence d'anomalie;Non;Oui
+59;Homme;douleur non anginale;126;218;Oui;Normal;134;Non;2.2;Stable;Faible;Thalassemie sous controle;Oui
+40;Homme;asymptomatique;152;223;Non;Normal;181;Non;0.0;En hausse;Absence d'anomalie;Thalassemie instable;Oui
+42;Homme;douleur non anginale;130;180;Non;Normal;150;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+61;Homme;asymptomatique;140;207;Non;Hypertrophie;138;Oui;1.9;En hausse;Faible;Thalassemie instable;Oui
+66;Homme;asymptomatique;160;228;Non;Hypertrophie;138;Non;2.3;En hausse;Absence d'anomalie;Thalassemie sous controle;Non
+46;Homme;asymptomatique;140;311;Non;Normal;120;Oui;1.8;Stable;Moyen;Thalassemie instable;Oui
+71;Femme;asymptomatique;112;149;Non;Normal;125;Non;1.6;Stable;Absence d'anomalie;Non;Non
+59;Homme;Angine stable;134;204;Non;Normal;162;Non;0.8;En hausse;Moyen;Non;Oui
+64;Homme;Angine stable;170;227;Non;Hypertrophie;155;Non;0.6;Stable;Absence d'anomalie;Thalassemie instable;Non
+66;Femme;douleur non anginale;146;278;Non;Hypertrophie;152;Non;0.0;Stable;Faible;Non;Non
+39;Femme;douleur non anginale;138;220;Non;Normal;152;Non;0.0;Stable;Absence d'anomalie;Non;Non
+57;Homme;Angine instable;154;232;Non;Hypertrophie;164;Non;0.0;En hausse;Faible;Non;Oui
+58;Femme;asymptomatique;130;197;Non;Normal;131;Non;0.6;Stable;Absence d'anomalie;Non;Non
+57;Homme;asymptomatique;110;335;Non;Normal;143;Oui;3.0;Stable;Faible;Thalassemie instable;Oui
+47;Homme;douleur non anginale;130;253;Non;Normal;179;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+55;Femme;asymptomatique;128;205;Non;Anomalies;130;Oui;2.0;Stable;Faible;Thalassemie instable;Oui
+35;Homme;Angine instable;122;192;Non;Normal;174;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+61;Homme;asymptomatique;148;203;Non;Normal;161;Non;0.0;En hausse;Faible;Thalassemie instable;Oui
+58;Homme;asymptomatique;114;318;Non;Anomalies;140;Non;4.4;En baisse;Élevé;Thalassemie sous controle;Oui
+58;Femme;asymptomatique;170;225;Oui;Hypertrophie;146;Oui;2.8;Stable;Moyen;Thalassemie sous controle;Oui
+58;Homme;Angine instable;125;220;Non;Normal;144;Non;0.4;Stable;Absence d'anomalie;Thalassemie instable;Non
+56;Homme;Angine instable;130;221;Non;Hypertrophie;163;Non;0.0;En hausse;Absence d'anomalie;Thalassemie instable;Non
+56;Homme;Angine instable;120;240;Non;Normal;169;Non;0.0;En baisse;Absence d'anomalie;Non;Non
+67;Homme;douleur non anginale;152;212;Non;Hypertrophie;150;Non;0.8;Stable;Absence d'anomalie;Thalassemie instable;Oui
+55;Femme;Angine instable;132;342;Non;Normal;166;Non;1.2;En hausse;Absence d'anomalie;Non;Non
+44;Homme;asymptomatique;120;169;Non;Normal;144;Oui;2.8;En baisse;Absence d'anomalie;Thalassemie sous controle;Oui
+63;Homme;asymptomatique;140;187;Non;Hypertrophie;144;Oui;4.0;En hausse;Moyen;Thalassemie instable;Oui
+63;Femme;asymptomatique;124;197;Non;Normal;136;Oui;0.0;Stable;Absence d'anomalie;Non;Oui
+41;Homme;Angine instable;120;157;Non;Normal;182;Non;0.0;En hausse;Absence d'anomalie;Non;Non
+59;Homme;asymptomatique;164;176;Oui;Hypertrophie;90;Non;1.0;Stable;Moyen;Thalassemie sous controle;Oui
+57;Femme;asymptomatique;140;241;Non;Normal;123;Oui;0.2;Stable;Absence d'anomalie;Thalassemie instable;Oui
+45;Homme;Angine stable;110;264;Non;Normal;132;Non;1.2;Stable;Absence d'anomalie;Thalassemie instable;Oui
+68;Homme;asymptomatique;144;193;Oui;Normal;141;Non;3.4;Stable;Moyen;Thalassemie instable;Oui
+57;Homme;asymptomatique;130;131;Non;Normal;115;Oui;1.2;Stable;Faible;Thalassemie instable;Oui
+57;Femme;Angine instable;130;236;Non;Hypertrophie;174;Non;0.0;Stable;Faible;Non;Oui
+38;Homme;douleur non anginale;138;175;Non;Normal;173;Non;0.0;En hausse;Absence d'anomalie;Non;Non
