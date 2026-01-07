@@ -13,6 +13,8 @@ cat_cols = df.select_dtypes(include = "object")
 # Initialisation de l'application Dash
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
+server = app.server
+
 corr = quant_cols.corr()
 fig = px.imshow(
     corr,
@@ -206,4 +208,5 @@ def update_violinplot(selected_variable):
     return fig
 
 if __name__ == '__main__':
+
     app.run(debug=True)
